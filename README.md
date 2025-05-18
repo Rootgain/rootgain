@@ -1,16 +1,16 @@
-## Hi there 👋
+# ROOTGAIN
 
-<!--
-**Rootgain/rootgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ROOTGAIN is a clean, vegan moringa-based protein powder brand inspired by Ayurvedic wellness principles.
 
-Here are some ideas to get you started:
+This repository contains the official landing page for ROOTGAIN — showcasing product highlights, philosophy, and contact information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Contact
+
+- Email: team.rootgain@gmail.com  
+- Phone: +91 8708918518
+
+---
+
+Feel free to explore and suggest improvements!
